@@ -1,0 +1,11 @@
+{
+  "width": 100,
+  "height": 30,
+  "startEnergy": 50,
+  "moveEnergy": 1,
+  "grassEnergy": 5,
+  "simulationTimeMs": 50,
+  "jungleRatio": 0.25,
+  "grassSpawned": 10,
+  "startAnimals": 50
+}
